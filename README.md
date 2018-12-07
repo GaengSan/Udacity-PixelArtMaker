@@ -1,0 +1,2 @@
+# Udacity-PixelArtMaker
+Javascript exercise
